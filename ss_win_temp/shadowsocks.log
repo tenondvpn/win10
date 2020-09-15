@@ -1,0 +1,1198 @@
+[2020-09-14 12:24:27] [E] local_country_: CN
+[2020-09-14 12:24:27] [E] account_id_: 31037af2d4c27130a3a0fc6793696b9d1238f11bb70a4fe9f46803ab1d17e92a
+[2020-09-14 12:24:27] [E] prikey_: d54c790d7a641010ffd56a48470c65fb13c4460ae1bb9019a5e00eb82d75e6be
+[2020-09-14 12:24:27] [E] socket_id_: 1124
+[2020-09-14 12:24:27] init network success!
+[2020-09-14 12:24:27] System.IO.IOException: 文件“C:\Users\xielei29468\Downloads\win10\ss_win_temp\shadowsocks.log”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 Shadowsocks.Controller.Logging.OpenLogFile()
+[2020-09-14 12:24:27] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 12:24:27] vpn_port_: 15307
+[2020-09-14 12:24:27] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 12:24:28] Shadowsocks started (4.0.4)
+[2020-09-14 12:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 12:54:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 12:54:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 12:54:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 12:54:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 12:54:10] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 13:08:06] Shadowsocks started (4.0.4)
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:08:37] vpn_port_: 30478
+[2020-09-14 13:08:37] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:08:37] Shadowsocks started (4.0.4)
+[2020-09-14 13:08:38] Shadowsocks started (4.0.4)
+[2020-09-14 13:13:08] Shadowsocks started (4.0.4)
+[2020-09-14 13:21:46] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:21:46] vpn_port_: 30478
+[2020-09-14 13:21:46] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:21:46] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 13:21:46] vpn_port_: 30478
+[2020-09-14 13:21:46] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 13:21:46] Shadowsocks started (4.0.4)
+[2020-09-14 13:21:46] Shadowsocks started (4.0.4)
+[2020-09-14 13:29:33] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 13:38:16] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:04:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:04:04] vpn_port_: 30478
+[2020-09-14 14:04:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:04:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:04:04] vpn_port_: 30478
+[2020-09-14 14:04:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:04:05] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 14:04:05] vpn_port_: 32004
+[2020-09-14 14:04:05] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:07:58] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 14:07:58] vpn_port_: 30478
+[2020-09-14 14:07:58] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 14:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:18:23] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:19:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:19:27] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:38:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:54:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:54:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 14:54:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:14:44] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:14:44] vpn_port_: 15307
+[2020-09-14 15:14:44] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:17] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:15:17] vpn_port_: 32004
+[2020-09-14 15:15:17] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:15:38] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:15:38] vpn_port_: 30478
+[2020-09-14 15:15:38] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:03] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 15:16:03] vpn_port_: 19309
+[2020-09-14 15:16:03] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:04] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:04] vpn_port_: 30478
+[2020-09-14 15:16:04] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:16:26] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 15:16:26] vpn_port_: 30478
+[2020-09-14 15:16:26] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 15:18:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:18:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:18:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:18:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:18:25] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:19:25] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:19:25] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:19:32] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:19:41] 101.69.128.101:10377 timed out
+[2020-09-14 15:19:41] 101.69.128.101:10377 timed out
+[2020-09-14 15:19:41] 101.69.128.101:10377 timed out
+[2020-09-14 15:29:32] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:10] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:38:10] vpn_port_: 32004
+[2020-09-14 15:38:10] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:38:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:16] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 15:38:16] vpn_port_: 15307
+[2020-09-14 15:38:16] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 15:38:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:18] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:20] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:38:21] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:43:46] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 15:43:46] vpn_port_: 32004
+[2020-09-14 15:43:46] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 15:54:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:05] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:10] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 15:54:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:11:32] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:11:32] vpn_port_: 32004
+[2020-09-14 16:11:32] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:11:32] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:11:32] vpn_port_: 32004
+[2020-09-14 16:11:32] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:11:32] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:11:32] vpn_port_: 32004
+[2020-09-14 16:11:32] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:11:32] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:11:32] vpn_port_: 19309
+[2020-09-14 16:11:32] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:16:02] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 16:16:02] vpn_port_: 30478
+[2020-09-14 16:16:02] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 16:16:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:16:02] vpn_port_: 15307
+[2020-09-14 16:16:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:16:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:16:02] vpn_port_: 15307
+[2020-09-14 16:16:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:16:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:16:02] vpn_port_: 15307
+[2020-09-14 16:16:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:16:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:16:02] vpn_port_: 15307
+[2020-09-14 16:16:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:16:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:16:02] vpn_port_: 15307
+[2020-09-14 16:16:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:18:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:19:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:19:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:19:25] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:19:29] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:20:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:20:02] vpn_port_: 15307
+[2020-09-14 16:20:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:20:02] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 16:20:02] vpn_port_: 15307
+[2020-09-14 16:20:02] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:02] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 16:20:02] vpn_port_: 19309
+[2020-09-14 16:20:02] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:20:03] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 16:20:03] vpn_port_: 32004
+[2020-09-14 16:20:03] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 16:29:32] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:07] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:07] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:11] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 16:54:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:18:12] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:18:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:18:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:19:25] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:19:28] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:29:32] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:42:06] vpn_ip_: 216.108.231.102, 1726442712
+[2020-09-14 17:42:06] vpn_port_: 15307
+[2020-09-14 17:42:06] seckey_: 2f9693e8b85ef9ed8b27323e55423295fc38789f1033e31085deb397e256f71e
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 在其上下文中，该请求的地址无效。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:48] vpn_port_: 30478
+[2020-09-14 17:47:48] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] vpn_ip_: 216.108.231.43, 736586968
+[2020-09-14 17:47:48] vpn_port_: 32004
+[2020-09-14 17:47:48] seckey_: dbcb86bff26a7184de2893ac05f0acaaef1bd037dd7ae8d24d7b61faa639b3b2
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:48] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:49] vpn_port_: 19309
+[2020-09-14 17:47:49] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:49] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] vpn_ip_: 206.189.233.88, 1491713486
+[2020-09-14 17:47:50] vpn_port_: 30478
+[2020-09-14 17:47:50] seckey_: 3b6d82bf3a669f3fface716c8dde73c96205eaad08b6ec83a9ae7bc6883d058b
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] vpn_ip_: 64.235.38.43, 723970880
+[2020-09-14 17:47:52] vpn_port_: 19309
+[2020-09-14 17:47:52] seckey_: c81734a773b8e39847b62aa18a90eb866bb6d48e64ff94ccad9585bc14277580
+[2020-09-14 17:47:52] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:53] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2020-09-14 17:47:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)

@@ -1,0 +1,24 @@
+2020-09-14 12:24:27,263 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[lego]
+2020-09-14 12:24:27,263 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[lego]
+2020-09-14 12:24:27,263 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[lego]
+2020-09-14 12:24:27,263 [ERROR] [config.cc][lego::common::Config::Get][34] invalid field[lego] key[bootstrap_net]
+2020-09-14 12:24:27,264 [ERROR] [config.cc][lego::common::Config::Get][34] invalid field[lego] key[http_port]
+2020-09-14 12:24:27,264 [ERROR] [config.cc][lego::common::Config::Get][34] invalid field[lego] key[tcp_spec]
+2020-09-14 12:24:27,264 [ERROR] [config.cc][lego::common::Config::Get][34] invalid field[lego] key[stream_limit]
+2020-09-14 12:24:27,265 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][527] [client]set private key[d54c790d7a641010ffd56a48470c65fb13c4460ae1bb9019a5e00eb82d75e6be], public key[02e3813d9342ee4c3c62ea50481805dd2dc1accb84fdbee89510c41d4c8a0f898f]
+2020-09-14 12:24:27,265 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[vpn]
+2020-09-14 12:24:27,265 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[route]
+2020-09-14 12:24:27,265 [ERROR] [config.cc][lego::common::Config::Get][28] invalid field[route]
+2020-09-14 12:24:27,270 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][558] [client]InitUdpTransport: 4!
+2020-09-14 12:24:27,270 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][564] [client]InitTcpTransport: 5!
+2020-09-14 12:24:27,270 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][568] [client]MultiThreadHandler::Instance()->Init: 5!
+2020-09-14 12:24:27,270 [ERROR] [config.cc][lego::common::Config::Get][34] invalid field[lego] key[bootstrap_net]
+2020-09-14 12:24:27,273 [ERROR] [base_dht.cc][lego::dht::BaseDht::Bootstrap][197] [dht]bootstrap from 113.17.169.103:9002 success
+2020-09-14 12:24:27,470 [ERROR] [base_dht.cc][lego::dht::BaseDht::ProcessBootstrapResponse][446] [dht]receive bootstrap res, [113.17.169.103:9002] vpn nodes: 42, route nodes: 31
+2020-09-14 12:24:27,470 [ERROR] [vpn_client.cc][lego::client::VpnClient::CreateClientUniversalNetwork][914] [network]create universal network[1zÚ‘¬q0£†¸gìikù8Ò∑
+OÈÙh´È*][32][031000001a000000ff60b21284daf1369cd5ba3b246822a4172932195940ad20]
+2020-09-14 12:24:27,472 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][582] [client]InitNetworkSingleton: 207!
+2020-09-14 12:24:27,472 [ERROR] [vpn_client.cc][lego::client::VpnClient::Init][584] [client]CheckTxExists: 207!
+2020-09-14 12:24:28,532 [ERROR] [base_dht.cc][lego::dht::BaseDht::Bootstrap][197] [dht]bootstrap from 113.17.169.106:9002 success
+2020-09-14 12:24:28,532 [ERROR] [base_dht.cc][lego::dht::BaseDht::Bootstrap][197] [dht]bootstrap from 171.107.184.231:9002 success
+2020-09-14 12:24:28,532 [ERROR] [base_dht.cc][lego::dht::BaseDht::Bootstrap][197] [dht]bootstrap from 171.107.184.206:9002 success

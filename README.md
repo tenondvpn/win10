@@ -1,2 +1,1 @@
-# win10
-tenonvpn for windows
+# tenon_vpn-win10
